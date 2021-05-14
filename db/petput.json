@@ -1,0 +1,18 @@
+{
+  "id": 4258,
+  "category": {
+    "id": 0,
+    "name": "cat"
+  },
+  "name": "Mimo",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "adoption"
+    }
+  ],
+  "status": "adopted"
+}
